@@ -1,0 +1,3 @@
+monitor:
+   logstash:
+      host: 139.199.99.59:4560
